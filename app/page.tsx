@@ -26,7 +26,7 @@ export default async function Page() {
             target="_blank"
             rel="noreferrer"
           >
-            leerob
+            aero
           </a>{' '}
           / <Link href="/">on-demand-isr</Link>
         </div>
